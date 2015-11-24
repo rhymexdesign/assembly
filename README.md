@@ -1,13 +1,13 @@
-#Assembly
+#Assembly Unit
 
-Welcome to the [Rhyme by Design](http://rhymexdesign.github.io) - Assembly repo! This is where hip hop instrumentals are _designed, tested and built_. It should be an interesting experiment, mostly because we have never seen Github used with the purpose of music composition. 
+Welcome to the [Rhyme by Design](http://rhymexdesign.github.io) - Assembly Unit repo! This is where hip hop instrumentals are _designed, tested and built_. It should be an interesting experiment, mostly because we have never seen Github used with the purpose of music composition. 
 
-###Objective
+####Objective
 
 Rhyme By Design will not be possible without some very compelling and dope intstrumentals, mainly because one of the final outcomes will be a 6-track hip hop EP. Our hopes are that **_anyone_** willing or interested in making hip hop tracks, get involved in the process.
 
 
-###Timeline
+####Timeline
 By February 2016, we hope to have 12-15 solid tracks to choose from and write to.  
 <br>
 <br>
